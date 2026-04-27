@@ -1,0 +1,9 @@
+product_id,product_name,product_type,category,min_amount,max_amount,tenure_months
+3001,Regular Savings,Deposit,Savings,1000,5000000,
+3002,Fixed Deposit 1Y,Deposit,FD,10000,50000000,12
+3003,Home Loan,Loan,Secured,500000,50000000,240
+3004,Personal Loan,Loan,Unsecured,50000,2000000,60
+3005,Business Loan,Loan,SME,200000,10000000,120
+3006,Platinum Credit Card,Card,Premium,5000,500000,
+3007,Gold Credit Card,Card,Standard,2000,200000,
+3008,Term Insurance,Insurance,Life,5000,1000000,360

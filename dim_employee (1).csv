@@ -1,0 +1,51 @@
+employee_id,full_name,role,branch_code,hire_date,department
+5001,Sunil Singh,Teller,MUM001,2016-02-17,Operations
+5002,Mohan Kumar,Credit Officer,DEL001,2021-02-11,Operations
+5003,Prakash Menon,Branch Manager,MUM001,2011-08-26,Management
+5004,Rakesh Reddy,Operations Head,KOL001,2018-08-08,Credit
+5005,Amit Singh,Credit Officer,KOL001,2013-08-25,Credit
+5006,Arun Singh,Teller,JAI001,2015-11-11,Risk
+5007,Kavya Reddy,Credit Officer,LKN001,2012-09-01,Management
+5008,Preethi Nair,Credit Officer,JAI001,2022-07-02,Risk
+5009,Divya Sharma,Credit Officer,LKN001,2017-03-17,Management
+5010,Usha Kumar,Credit Officer,BLR001,2014-09-06,Credit
+5011,Arun Kumar,Branch Manager,BLR001,2014-10-22,Operations
+5012,Sunil Gupta,Credit Officer,HYD001,2012-12-10,Credit
+5013,Deepti Rao,Relationship Manager,MUM001,2012-09-23,Operations
+5014,Mohan Gupta,Credit Officer,MUM001,2018-02-23,Management
+5015,Sanjay Iyer,Branch Manager,KOL001,2019-06-13,Retail Banking
+5016,Sanjay Nair,Credit Officer,PUN001,2012-10-14,Management
+5017,Mohan Menon,Teller,BLR001,2012-10-18,Retail Banking
+5018,Usha Rao,Credit Officer,LKN001,2022-01-13,Risk
+5019,Prakash Menon,Operations Head,MUM001,2015-08-02,Retail Banking
+5020,Deepti Joshi,Branch Manager,HYD001,2018-09-29,Management
+5021,Naresh Sharma,Credit Officer,AHM001,2022-06-11,Management
+5022,Shalini Kumar,Teller,DEL001,2012-04-21,Management
+5023,Deepti Reddy,Relationship Manager,BLR001,2016-04-15,Management
+5024,Sanjay Kumar,Teller,LKN001,2020-03-25,Management
+5025,Deepti Rao,Branch Manager,LKN001,2013-07-15,Management
+5026,Bhavna Joshi,Relationship Manager,BLR001,2022-05-04,Credit
+5027,Rekha Singh,Teller,AHM001,2016-03-25,Risk
+5028,Neha Iyer,Teller,PUN001,2020-06-29,Management
+5029,Kavya Rao,Teller,KOL001,2022-07-12,Credit
+5030,Preethi Sharma,Relationship Manager,CHN001,2020-12-31,Management
+5031,Naresh Menon,Teller,BLR001,2021-09-18,Retail Banking
+5032,Kavya Singh,Credit Officer,HYD001,2013-11-17,Retail Banking
+5033,Shalini Reddy,Teller,CHN001,2017-01-08,Credit
+5034,Rakesh Singh,Relationship Manager,PUN001,2020-08-29,Credit
+5035,Sanjay Singh,Branch Manager,LKN001,2022-05-08,Credit
+5036,Preethi Sharma,Credit Officer,MUM001,2014-04-25,Retail Banking
+5037,Mohan Menon,Credit Officer,MUM001,2020-11-23,Management
+5038,Prakash Sharma,Relationship Manager,DEL001,2012-12-02,Retail Banking
+5039,Bhavna Menon,Credit Officer,CHN001,2021-04-10,Risk
+5040,Shalini Sharma,Operations Head,LKN001,2017-08-07,Operations
+5041,Arun Sharma,Branch Manager,BLR001,2020-11-21,Retail Banking
+5042,Usha Nair,Relationship Manager,AHM001,2014-06-26,Retail Banking
+5043,Asha Kumar,Teller,HYD001,2016-03-08,Risk
+5044,Preethi Reddy,Branch Manager,KOL001,2018-07-22,Operations
+5045,Deepti Gupta,Operations Head,MUM001,2019-06-18,Operations
+5046,Rakesh Reddy,Teller,DEL001,2012-12-20,Management
+5047,Arun Rao,Branch Manager,CHN001,2020-10-27,Retail Banking
+5048,Mohan Gupta,Relationship Manager,HYD001,2012-09-04,Operations
+5049,Sunil Menon,Operations Head,KOL001,2019-11-02,Risk
+5050,Rekha Sharma,Relationship Manager,MUM001,2022-09-23,Risk

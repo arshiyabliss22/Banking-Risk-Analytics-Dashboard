@@ -1,0 +1,11 @@
+branch_code,branch_name,city,state,region,manager_name,opened_year
+MUM001,Mumbai Main,Mumbai,Maharashtra,West,Suresh Iyer,2005
+DEL001,Delhi Connaught,Delhi,Delhi,North,Rajesh Gupta,2003
+BLR001,Bangalore MG Road,Bangalore,Karnataka,South,Kavitha Rao,2008
+CHN001,Chennai Anna Nagar,Chennai,Tamil Nadu,South,Senthil Kumar,2006
+HYD001,Hyderabad Banjara,Hyderabad,Telangana,South,Padma Reddy,2010
+PUN001,Pune FC Road,Pune,Maharashtra,West,Anjali Patil,2012
+AHM001,Ahmedabad CG Road,Ahmedabad,Gujarat,West,Deepak Modi,2009
+KOL001,Kolkata Park Street,Kolkata,West Bengal,East,Subrata Sen,2004
+JAI001,Jaipur MI Road,Jaipur,Rajasthan,North,Pradeep Sharma,2011
+LKN001,Lucknow Hazratganj,Lucknow,Uttar Pradesh,North,Vandana Mishra,2013
