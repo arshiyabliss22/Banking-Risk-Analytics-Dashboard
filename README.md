@@ -1,6 +1,7 @@
 # Banking-Risk-Analytics-Dashboard
 Power BI Dashboard for Banking Risk &amp; Customer Demographics
 ​Project Overview
+
 ​This Power BI project provides a comprehensive 360-degree analysis of a bank's loan portfolio, focusing on Risk Management (NPA) and Customer Demographics. The goal is to identify high-risk areas (Villains) and celebrate top-performing sectors and clients (Heroes).
 ​📊 Key Dashboard Features
 ​Executive Summary: A high-level view of Total Disbursed Amount, Outstanding Balance, and Overall NPA %.
